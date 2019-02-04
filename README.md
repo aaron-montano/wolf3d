@@ -9,7 +9,7 @@ toggle run/walk : TAB\
 interact: E\
 drop: R\
 change item: 1 and 2\
-use warp pipe: T\
+use warp pipe: T \
 
 You win when you find all 3 "42 silicon Valley" Badges.\
 
